@@ -47,3 +47,59 @@ Place
     - NumCatalogPurchases: Number of purchases made using a catalogue
     - NumStorePurchases: Number of purchases made directly in stores
     - NumWebVisitsMonth: Number of visits to company’s web site in the last month
+    
+    
+# Conclusion Segmentation
+
+## Write a short text of what is the key business takeaway of the recommendation.
+
+## Group 0 <br>
+- high spending and average income
+- Are a parent
+- Are older
+- has teen at home
+- Family size is atleast 2
+
+
+
+## Group 1 
+- high spending and high income
+- More number of store purchases and catalog purchases
+- Family size is atmost 3
+- Atmost 1 child
+- Spend on all products
+
+## Group 2 
+- low spending and low income
+- more web visits
+- at most 2 children
+- have only 1 teen
+
+## Group 3 
+- high spending and low income
+- spends more on wines and gold.
+- more store purchases
+- atleast size of family is 2
+- definitely a parent
+ 
+ # Conclusion Promotion
+ ### Run SHAP analysis on the model results, and write a short text of what would be your recommendation to business for the next round of campaigns.?
+
+<i>It looks like the campaigns had a very least effect on people and it has'nt pulled the audience to buy the product. Deals made with Disocunt may had been able to make more effect then Campaigns.Perhaps there is a need of better targeted and well planned campaigns.<i><br>
+##### Recommendation to business for the next round of campaigns.
+- Discounts can be mentioned in the campaigns
+- Campaigns should be  more family oriented as we saw our data mostly contains families
+- A strategy can be followed as we have already clustered data so we can provide valid recommendations to customers according to their interests.
+- Some discounts  can be made on products displayed via campaign so that to sell more products at a cheap rate. This will help to retain customers.
+-  Meat and Fish can be sold together at some discount rate.
+- Campaigns should represent cultural aspects of the country that will drive more people towards them.
+- Campaigns can use humour. As the memes will do the rest.
+- Social Media can be used more effectively.
+
+
+
+
+
+
+
+
