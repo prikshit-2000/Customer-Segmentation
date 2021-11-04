@@ -1,6 +1,11 @@
+Kaggle Notebook Link : https://www.kaggle.com/prikshitsingla/customer-segementation
+
+
+
+
 # Customer-Segmentation
 
-Kaggle Notebook Link : https://www.kaggle.com/prikshitsingla/customer-segementation
+
 
 Problem Statement
 
