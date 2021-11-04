@@ -1,3 +1,6 @@
+***Note : If Github is unable to open the notebook. Please go to https://nbviewer.org/ and paste the notebook link there.***
+
+
 Kaggle Notebook Link : https://www.kaggle.com/prikshitsingla/customer-segementation
 
 
